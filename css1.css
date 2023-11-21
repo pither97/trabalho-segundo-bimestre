@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(245, 220, 224);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+h1{
+    background-color: rgb(255, 0, 234);
+    text-align: center;
+}
+
+
+h2.color:hover{
+    background-color: blues;
+}
+
+
+input[type=submit]{
+    margin: 3% 37% 5% 38%;
+    width: 20%;
+    background: darkgreen;
+}
+
+
+
+h3.color:hover{  background-color: aqua;
+
+}
+
+
+
+h4.color:hover{ background-color: blueviolet;
+
+}
+
+form{ 
+    padding: 3% 3% 3% 10%;
+    border-radius: 2%em;
+    margin: 0% 10%  2% 10%; 
+}
+
+
